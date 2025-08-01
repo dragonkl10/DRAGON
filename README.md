@@ -1,46 +1,51 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+My+Repo!+👋;Powered+by+BL+DRAGON+🔥;Open+Source+Love+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=🔥+BL+DRAGON+BOT+🔥;Welcome+to+my+Repo!+💥;Telegram+Bot+Powered+by+Node.js;Open+Source+Forever+❤️" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Love-red?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/your-username?style=social">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo-name?style=social">
+  <img src="https://img.shields.io/badge/Author-BL%20DRAGON-red?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Telegram-%40bldragonbot-blue?style=for-the-badge&logo=telegram">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
+  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github">
 </p>
 
 ---
 
-## ⚡ About This Project
+## 📽️ Video Preview
 
-> 🔥 **BL DRAGON** is a powerful bot built on Raganork-MD base, made for handling media, automation, and advanced WhatsApp features.
+[▶️ Click to Watch Preview](https://files.catbox.moe/c62lwh.mp4)
 
-- 🎯 Focused on performance
-- 🛡️ Secure & modular structure
-- 🤖 Easy to extend & customize
+> 🔥 Preview of `BL DRAGON` in action — Stylish, fast, and powerful WhatsApp automation.
 
 ---
 
-## 🧰 Tech Stack
+## 💡 Features
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-000000?style=flat-square&logo=flydotio)
-
----
-
-## 📸 Screenshots
-
-| Home UI | Bot Menu |
-|--------|----------|
-| ![home](https://i.imgur.com/ChIm4kz.jpeg) | ![menu](https://i.imgur.com/C4VvVDv.jpeg) |
+- ✅ Stylish UI
+- 🎧 Audio, Video, Logo support
+- 🌍 Multi-language auto-translate
+- 🔐 Safe & secure modules
+- ⚡ Fast response time
 
 ---
 
-## 🚀 How to Deploy
+## 🛠 Tech Used
 
-```bash
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
-npm install
-node index.js
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-000000?style=for-the-badge&logo=flydotio)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📬 Contact
+
+- 🤖 Telegram Bot: [@bldragonbot](https://t.me/bldragonbot)
+- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/916235508514)
+- 🔗 GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+</p>
