@@ -42,7 +42,7 @@
 
 - 🤖 Telegram Bot: [@bldragonbot](https://t.me/bldragonbot)
 - 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/916235508514)
-- 🔗 GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- 🔗 GitHub: [github.com/YOUR-USERNAME](https://github.com/dragonkl10)
 
 ---
 
